@@ -1,0 +1,10 @@
+# Thu vien ngoai cua giao trinh TEE109. Phien ban ghim cung.
+# Python 3.12. Cai bang: pip install -r requirements.txt
+# Moi lan nang phien ban phai chay lai kiem_tra_toan_bo.py
+# va cap nhat moi khoi ket qua trong sach bi lech.
+numpy==2.1.3
+matplotlib==3.9.2
+
+# Chi dung khi sinh lai 00_KhungChuan/MauGiaoTrinh.docx.
+# Khong phai thu vien day trong sach.
+python-docx==1.2.0
